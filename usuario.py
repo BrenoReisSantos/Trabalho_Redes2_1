@@ -1,3 +1,6 @@
+"""
+Classe que denota um tipo usuário
+"""
 class Usuario:
   def __init__(self, nome, ip, porta):
     self.nome = nome

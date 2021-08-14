@@ -1,3 +1,6 @@
+"""
+Classe para tratar de uma lista de usuários
+"""
 class ListaDeUsuarios(list):
   def __init__(self):
     super().__init__([])
